@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sankalpr22
-- 👀 I’m interested in pyhton and data science
+- 👀 I’m interested in python and data science
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on data science projects 
 
